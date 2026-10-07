@@ -17,7 +17,7 @@ RED = (200, 0, 0)
 DARK_GREEN = (0, 150, 0)
 
 
-FPS = 10
+FPS = 40
 
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
